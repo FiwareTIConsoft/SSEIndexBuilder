@@ -1,0 +1,13 @@
+*.iml
+.idea
+target
+*.log
+data/sse/dbpedia/en/original/*
+!data/sse/dbpedia/en/original/blacklistedURIPatterns.en.list
+!data/sse/dbpedia/en/original/stopwords.en.list
+data/sse/dbpedia/it/original/*
+!data/sse/dbpedia/it/original/blacklistedURIPatterns.it.list
+!data/sse/dbpedia/it/original/stopwords.it.list
+data/sse/dbpedia/en/output/*
+data/sse/dbpedia/it/output/*
+
