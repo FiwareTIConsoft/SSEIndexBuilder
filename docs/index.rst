@@ -31,16 +31,19 @@ Since this is a standalone component, there is no need of programmer guide.
 Installation and Administration Guide
 =====================================
   
-# SSE Indexes Builder
+SSE Indexes Builder
+-----------------------------------
 
 SSE Indexes Builder is a project for creating the Lucene Indexes of [SSE](https://github.com/SSE/sse), a tool for classifying and enriching English and Italian textual documents via [Linked Open Data](http://linkeddata.org/). This project is based on a customized version of [DBpedia Spotlight](https://github.com/dbpedia-spotlight/dbpedia-spotlight/wiki), a tool for automatically annotating mentions of DBpedia resources in text.
 
-##Documentation
+Documentation
+---------------
 
 More documentation is available from the [SSE Index Builder wiki](https://github.com/sse/dbpedia-spotlight/wiki). 
 
 
-## Licenses
+Licenses
+---------------
 
 This customized version of DBpedia Spotlight for creating SSE Indexes can be used under the terms of the [GNU Affero General Public License 3.0](http://www.gnu.org/licenses/agpl-3.0.html).
 
